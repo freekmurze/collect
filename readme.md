@@ -16,4 +16,4 @@ Lovingly split by Matt Stauffer for [Tighten Co.](http://tighten.co/), with a ki
  - **Why isn't this just under the Illuminate namespace?**  
     Because that would require adding a lot of complexity and duplication to Illuminate\Support's internal structure. One day Taylor may choose to do that, but right now he hasn't and doesn't have any immediate plans to do so. If he does, we'll deprecate this package and point to the core version.
  - **Why not just use an array?**  
-    What a great question. [Tightenite Adam Wathan has a book about that.](http://adamwathan.me/refactoring-to-collections/)
+    What a great question. [Adam Wathan has a book about that.](http://adamwathan.me/refactoring-to-collections/)
